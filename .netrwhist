@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/zhangxian/bin'
+let g:netrw_dirhist_2='/Users/zhangxian'
+let g:netrw_dirhist_3='/Users/zhangxian/.node-gyp'
+let g:netrw_dirhist_4='/Users/zhangxian/.node-gyp/0.10.26'
+let g:netrw_dirhist_5='/Users/zhangxian/.node-gyp/0.10.26/deps'
+let g:netrw_dirhist_6='/Users/zhangxian/.node-gyp/0.10.26/deps/cares'
+let g:netrw_dirhist_7='/Users/zhangxian/Gitstuff/maximum-awesome/vim/view'
