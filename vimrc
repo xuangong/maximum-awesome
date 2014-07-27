@@ -145,6 +145,9 @@ map <silent> <leader>V :source ~/.vimrc<CR>:filetype detect<CR>:exe ":echo 'vimr
 " backspace to toggle commentary
 nmap <BS> gcc
 vmap <BS> gc
+" move cursor up/down inline
+nmap j gj
+nmap k gk
 " edit the snippet
 nmap <leader>u :UltiSnipsEdit<CR>
 " Type enter key to display BufferList, and select a list then press enter
